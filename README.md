@@ -44,6 +44,7 @@ Overall, the chart suggests that Drama is the most popular genre among movies, w
 ![genre.png.png](https://raw.githubusercontent.com/Lawez/manuu-cahamp/master/images/genre.png.png)
 
 
+
 Based on the general trend of the dots in the scatter plot, it appears that there is a positive correlation between a movie's budget and its profit. This makes sense, as movies with higher budgets may have more resources to create compelling stories, characters, and special effects that can attract larger audiences and generate more revenue.
 
 ![scatter.png.png](https://raw.githubusercontent.com/Lawez/manuu-cahamp/master/images/scatter.png.png)
@@ -58,45 +59,43 @@ Overall, the histogram suggests that movie runtimes are generally concentrated w
 
 
 
-
-
 ## Conclusions
 
--based on my findings the following sums up my conclusion:
+- Based on my findings the following sums up my conclusion:
 
--These are the top 10 genres;
+- These are the top 10 genres;
 
--Classics|Comedy|Musical and Performing Art
+- Classics|Comedy|Musical and Performing Art
 
--Drama|Romance
+- Drama|Romance
 
--Drama|Mystery and Suspense
+- Drama|Mystery and Suspense
 
--Action and Adventure|Mystery and Suspense
+- Action and Adventure|Mystery and Suspense
 
--Horror
+- Horror
 
--Musical and Performing Arts
+- Musical and Performing Arts
 
--Action and Adventure|Drama|Horror|Mystery
--
-Action and Adventure|Classics|Drama|Mystery
+- Action and Adventure|Drama|Horror|Mystery
 
--Drama
+- Action and Adventure|Classics|Drama|Mystery
+
+- Drama
 
 ## Recommendation
 
--The companies should focus on genrws that incurr a high profit, these are:
+- The companies should focus on genrws that incurr a high profit, these are:
 
--Classics|Comedy|Musical and Performing Art
+- Classics|Comedy|Musical and Performing Art
 
--Drama|Romance
+- Drama|Romance
 
--Drama|Mystery and Suspense
+- Drama|Mystery and Suspense
 
--Action and Adventure|Mystery and Suspense
+- Action and Adventure|Mystery and Suspense
 
--The genres above incurred a profit. The companies should invest in the genres highlighted above.
+- The genres above incurred a profit. The companies should invest in the genres highlighted above.
 
 ## Next steps
 

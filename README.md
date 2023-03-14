@@ -41,12 +41,12 @@ It's worth noting that the chart may not be an exhaustive representation of all 
 
 Overall, the chart suggests that Drama is the most popular genre among movies, which may reflect the enduring appeal of emotionally engaging stories and characters. Comedy and Action are also popular genres, which may reflect the appeal of escapism, humor, and excitement in movies.
 
-![genre.png.png](https://raw.githubusercontent.com//Lawez/manuu-cahamp/master/images/genre.png.png)
+![genre.png.png](https://raw.githubusercontent.com/Lawez/manuu-cahamp/master/images/genre.png.png)
 
 
 Based on the general trend of the dots in the scatter plot, it appears that there is a positive correlation between a movie's budget and its profit. This makes sense, as movies with higher budgets may have more resources to create compelling stories, characters, and special effects that can attract larger audiences and generate more revenue.
 
-![scatter.png](https://raw.githubusercontent.com//Lawez/manuu-cahamp/master/images/scatter.png)
+![scatter.png](https://raw.githubusercontent.com/Lawez/manuu-cahamp/master/images/scatter.png)
 
 
 
@@ -54,7 +54,7 @@ The x-axis likely represents the range of movie runtimes, while the y-axis repre
 
 Overall, the histogram suggests that movie runtimes are generally concentrated within a certain range, which may reflect the preferences of audiences and the conventions of the movie industry. However, there is still a significant amount of variation in movie runtimes, indicating that filmmakers and studios have some flexibility in choosing how long to make their movies.
 
-![histogram.png.png](https://raw.githubusercontent.com//Lawez/manuu-cahamp/master/images/images/histogram.png.png)
+![histogram.png.png](https://raw.githubusercontent.com/Lawez/manuu-cahamp/master/images/images/histogram.png.png)
 
 
 

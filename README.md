@@ -54,7 +54,7 @@ The x-axis likely represents the range of movie runtimes, while the y-axis repre
 
 Overall, the histogram suggests that movie runtimes are generally concentrated within a certain range, which may reflect the preferences of audiences and the conventions of the movie industry. However, there is still a significant amount of variation in movie runtimes, indicating that filmmakers and studios have some flexibility in choosing how long to make their movies.
 
-![histogram.png.png](https://raw.githubusercontent.com/Lawez/manuu-cahamp/master/images/images/histogram.png.png)
+![histogram.png.png](https://raw.githubusercontent.com/Lawez/manuu-cahamp/master/images/histogram.png.png)
 
 
 

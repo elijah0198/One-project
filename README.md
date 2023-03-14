@@ -46,7 +46,7 @@ Overall, the chart suggests that Drama is the most popular genre among movies, w
 
 Based on the general trend of the dots in the scatter plot, it appears that there is a positive correlation between a movie's budget and its profit. This makes sense, as movies with higher budgets may have more resources to create compelling stories, characters, and special effects that can attract larger audiences and generate more revenue.
 
-![scatter.png](https://raw.githubusercontent.com/Lawez/manuu-cahamp/master/images/scatter.png)
+![scatter.png.png](https://raw.githubusercontent.com/Lawez/manuu-cahamp/master/images/scatter.png.png)
 
 
 

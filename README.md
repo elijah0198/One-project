@@ -107,10 +107,9 @@ See the full analysis in the Jupyter Notebook or review this presentation.
 
 
 ## Repositry structure
+├── .ipynbcheckpoint
 ├── data
-/
 ├── images
-/
 ├── presentation
-/
 ├── README.md
+
